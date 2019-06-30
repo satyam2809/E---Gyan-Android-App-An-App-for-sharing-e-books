@@ -1,0 +1,2 @@
+# E---Gyan-Android-App-An-App-for-sharing-e-books
+The app is made for college students, where students can create an account and view uploaded e-books, important documents, they can also upload any important document or notes for helping other students. The users of this app can download the document uploaded so far, and use it as per their convenience and the app is a group project, and uses Firebase to store documents.
